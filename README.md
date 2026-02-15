@@ -1,4 +1,5 @@
-# Health Intelligence & Dietary Risk Analytics Platform
+#  Health Intelligence & Dietary Risk Analytics Platform (Oracle SQL)
+
 
 ##  Project Overview
 
@@ -16,9 +17,11 @@ The objective is to simulate analytics for a HealthTech SaaS platform that provi
 
 ##  Tools Used
 
-- SQL Server (T-SQL)
+- Oracle SQL
+- Oracle SQL Developer
 - Power BI
 - GitHub
+
 
 ---
 
